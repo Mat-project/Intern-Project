@@ -1,6 +1,6 @@
 ﻿# Intern-Project
 
-#Big Data Analysis
+# Big Data Analysis
 
 #output
 root
@@ -81,7 +81,7 @@ only showing top 20 rows
 +--------------------+-----+
 only showing top 20 rows
 
-#Predictive Analysis
+# Predictive Analysis
 
 +-----------+--------+--------+---+----+--------+---------+------------+--------------+--------+----------+-------------------+----------------+
 |brokered_by|  status|   price|bed|bath|acre_lot|   street|        city|         state|zip_code|house_size|     prev_sold_date|        features|
